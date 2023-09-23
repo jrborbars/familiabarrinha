@@ -1,0 +1,37 @@
+baseURL = "http://familiabarrinha.com.br/"
+languageCode = "pt-br"
+title = "Família Barrinha"
+theme = "m10c"
+#theme="hugo-developer-portfolio"
+
+[params]
+  author = "Tarcísio Docílio Borba e José Ricardo Borba"
+  description = "Somos todos Souza"
+  menu_item_separator = "<br/>"
+
+[menu]
+  [[menu.main]]
+    identifier = "principal"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "Família"
+    name = "Família"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "sobre"
+    name = "Sobre a família"
+    url = "/sobre/"
+    weight = 3
+
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
