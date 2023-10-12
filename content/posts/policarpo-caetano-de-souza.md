@@ -1,7 +1,7 @@
 +++
 title = '1852 - Policarpo Caetano de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 POLICARPO CAETANO DE SOUZA nasceu em São Joaquim/SC aos 19.08.1852 que casou-se com ANA MARIA VIEIRA DE ARRUDA (vó Aninha) nascida em São Joaquim/SC, falecida em 05.12.1928.

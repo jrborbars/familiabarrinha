@@ -1,7 +1,7 @@
 +++
 title = '1715 - José de Souza Medeiros'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 JOSÉ DE SOUZA MEDEIROS - Era natural de Angra do Heroísmo, capital da Ilha Terceira dos Açores, Portugal, onde nasceu em 1715. Era casado com INEZ MARIA DA CONCEIÇÃO.

@@ -1,7 +1,7 @@
 +++
 title = '1940 - Narli Bentinha de Souza Guesser'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 NARLI BENTINHA DE SOUZA GUESSER, que nasceu aos 14.11.1940 em Urubici/SC; casou-se em Urubici/SC em 14.09.1957 com Ambrósio Guesser, nascido em Braço do Norte/SC em 12.10.1935 e  falecido em Florianópolis S/C em 10.09.2001 

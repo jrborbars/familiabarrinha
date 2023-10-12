@@ -1,7 +1,7 @@
 +++
 title = '1924 - Neli Vieira de Borba'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 NELI VIEIRA DE BORBA, que nasceu em Urubici em 10.10.1924 e faleceu aos 06.08.2016, e casou-se em 20.07.1944 com Docílio Borba, nascido em Travessão, município de Gravatal – SC aos 12.05.1916 e falecido em Urubici, aos 29.05.1992.

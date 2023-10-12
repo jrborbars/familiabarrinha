@@ -1,7 +1,7 @@
 +++
 title = '1922 - Nelson Vieira de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 NELSON VIEIRA DE SOUZA (Tio Lelo), que nasceu em Urubici em 23.11.1922, e casou-se em em Urubici aos 16/09/1950 com Sérgia Oliveira de Souza que nasceu em Urubici aos 10/10/1929 e faleceu em Urubici em 19/07/2013 e ele também falecido em Urubici em 22/07/2005.

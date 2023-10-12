@@ -1,7 +1,7 @@
 +++
 title = '1823 - Policarpo José de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 POLICARPO JOSÉ DE SOUZA nasceu em 1823 na Vila de Lages/SC.

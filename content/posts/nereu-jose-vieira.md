@@ -1,7 +1,7 @@
 +++
 title = '1926 - Nereu José Vieira'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 NEREU JOSÉ VIEIRA, nasceu em Urubici aos 19.03.1926, e faleceu em em Florianópolis/SC aos 14.07.2000; casou-se em 12.07.1952 com Zita Vera Vieira nascida em Bom Retiro/SC. aos 31.08.1937 e falecida em Florianópolis/SC aos 07.02.1993.

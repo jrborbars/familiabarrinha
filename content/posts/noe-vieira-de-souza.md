@@ -1,7 +1,7 @@
 +++
 title = '1921 - Noé Vieira de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 NOÉ VIEIRA DE SOUZA, nasceu em São Joaquim/SC aos 10.07.1921 e faleceu em Florianópolis, SC, 23.03.1996. Casou-se em Alfredo Wagner aos 18.05.1946 com Wally Wagner de Souza que nasceu em Alfredo Wagner/SC aos 08.08.1927 e faleceu em Florianópolis/SC aos 19.01.2000, filha de Alfredo Wagner Junior, que nasceu em Alfredo Wagner/SC aos 28.01.1901 e faleceu em Florianópolis/SC aos 26.08.1977 e de Lídia Beling, que nasceu em São Pedro de Alcântara/SC aos 03.08.1902 e faleceu em Florianópolis/SC aos 13.04.1978.

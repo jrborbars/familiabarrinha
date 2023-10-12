@@ -1,7 +1,7 @@
 +++
 title = '1938 - Maria Nilda de Souza Régis'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 MARIA NILDA DE SOUZA RÉGIS, que nasceu em Urubici/SC aos 31.03.1938, que casou-se em primeiras núpcias em 23.11.1956, com Tito Azevedo ___/___/_____ e em segundas núpcias com Avany Aducci Régis que nasceu em Florianópolis aos 15/09/1935 e faleceu em Gravataí/RS em ___/___/___.

@@ -1,7 +1,7 @@
 +++
 title = '1796 - Manoel José Rodrigues de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 MANOEL JOSÉ RODRIGUES DE SOUZA nasceu em 21.02.1796 na Fazenda do Socorro e veio a falecer em 1868. Casou-se com ANA MARIA DE LIMA (1799 - 1865) em 25.12.1817 em Lages/SC. Ela era filha de Francisco José dos Santos e de Maria Magdalena de Benevides, residentes na Vila de Lages/SC.

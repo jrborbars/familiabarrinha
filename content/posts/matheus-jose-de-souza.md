@@ -1,7 +1,7 @@
 +++
 title = '1739 - Matheus José de Souza'
 date = '2023-09-22'
-draft = true
+draft = false
 +++
 
 MATHEUS JOSÉ DE SOUZA – nasceu em 1739 em Angra do Heroísmo, Ilha Terceira do Arquipélago dos Açores, Portugal, e morreu no então município de Lages, em 1820, na Fazenda do Socorro, hoje pertencente ao município de Bom Jardim da Serra/SC.
